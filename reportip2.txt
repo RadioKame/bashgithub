@@ -1,7 +1,0 @@
-Starting Nmap 7.93 ( https://nmap.org ) at 2023-07-26 19:04 EDT
-Nmap scan report for 172.17.0.1
-Host is up (0.00030s latency).
-All 1000 scanned ports on 172.17.0.1 are in ignored states.
-Not shown: 1000 closed tcp ports (conn-refused)
-
-Nmap done: 1 IP address (1 host up) scanned in 0.13 seconds
